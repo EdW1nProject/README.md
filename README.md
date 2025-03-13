@@ -29,5 +29,5 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.instagram.com/edwin" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=EdWin&show_icons=true&locale=en" alt="EdWin" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EdWin&" alt="EdWin" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=EdW1nProject&show_icons=true&locale=en" alt="EdWin" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RaolM&" alt="EdWin" /></p>
